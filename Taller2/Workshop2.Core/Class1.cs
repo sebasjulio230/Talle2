@@ -1,7 +1,0 @@
-﻿namespace Workshop2.Core
-{
-    public class Class1
-    {
-
-    }
-}
