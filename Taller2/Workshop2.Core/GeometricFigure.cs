@@ -2,7 +2,7 @@
 
 public abstract class GeometricFigure
 {
-    public string Name{ get; set; }
+    public string? Name { get; set; }
 
     public abstract double GetArea();
     public abstract double GetPerimeter();
